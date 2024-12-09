@@ -24,6 +24,7 @@ This machine learning project predicts motorcycle prices using advanced regressi
 3. Random Forest Regression
 4. K-Nearest Neighbors Regression
 5. Gradient Boosting Regression
+6. SVM Regression
 
 ## 📈 Model Evaluation Metrics
 - Mean Absolute Error (MAE)
